@@ -16,4 +16,4 @@ Python
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Maze](https://github.com/dhawal-pandya/Maze-Path-Finder/blob/main/assets/maze.png)
