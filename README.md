@@ -9,6 +9,10 @@ Needs atleast Python 3.9 or higher.
 ```bash
   python3 maze-path-finder.py
 ```
+IF working with Windows, you will need to install windows-curses manually. (Comes built-in in Linux or MacOS.)
+```bash
+  pip3 install windows-curses
+```
 
 ## 🛠 Languages
 
